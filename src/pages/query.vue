@@ -80,7 +80,7 @@ const thisYear = new Date().getFullYear();
           <div class="absolute m-4 w-[90%] bottom-0">
             <label for="Search" class="sr-only"> Search </label>
 
-            <input type="text" id="Search" placeholder="Ask AI..."
+            <input type="text" id="Search" placeholder="Ask AI@."
               class="w-full rounded-md border-gray-200 py-2.5 pe-10 shadow-sm sm:text-sm" />
 
             <span class="absolute inset-y-0 right-0 grid w-10 place-content-center">
@@ -102,7 +102,7 @@ const thisYear = new Date().getFullYear();
         <div class="relative w-80% m-4">
           <label for="Search" class="sr-only"> Search </label>
 
-          <input type="text" id="Search" placeholder="Search for..."
+          <input type="text" id="Search" placeholder="Search for@."
             class="w-full rounded-md border-gray-200 py-2.5 pe-10 shadow-sm sm:text-sm" />
 
           <span class="absolute inset-y-0 right-0 grid w-10 place-content-center">
@@ -124,7 +124,7 @@ const thisYear = new Date().getFullYear();
             <MdPreview class="w-full h-[192px] rounded-xl" :editorId="id" :modelValue="text" />
             <div class="m-t-4 flex flex-row gap-4">
               <div class="rounded-full">
-                <img class="w-14 rounded-full" src="../assets/Robin Williams.png" />
+                <img class="w-14 rounded-full" src="@/assets/Robin Williams.png" />
               </div>
               <span>
                 <p style="font-size: 20px;font-weight: bold;line-height: 32px;color: #1D1D1F;">Robin Williams</p>
@@ -148,7 +148,7 @@ const thisYear = new Date().getFullYear();
             <MdPreview class="w-full h-[192px] rounded-xl" :editorId="id" :modelValue="text" />
             <div class="m-t-4 flex flex-row gap-4">
               <div class="rounded-full">
-                <img class="w-14 rounded-full" src="../assets/Robin Williams.png" />
+                <img class="w-14 rounded-full" src="@/assets/Robin Williams.png" />
               </div>
               <span>
                 <p style="font-size: 20px;font-weight: bold;line-height: 32px;color: #1D1D1F;">Robin Williams</p>
@@ -172,7 +172,7 @@ const thisYear = new Date().getFullYear();
             <MdPreview class="w-full h-[192px] rounded-xl" :editorId="id" :modelValue="text" />
             <div class="m-t-4 flex flex-row gap-4">
               <div class="rounded-full">
-                <img class="w-14 rounded-full" src="../assets/Robin Williams.png" />
+                <img class="w-14 rounded-full" src="@/assets/Robin Williams.png" />
               </div>
               <span>
                 <p style="font-size: 20px;font-weight: bold;line-height: 32px;color: #1D1D1F;">Robin Williams</p>

@@ -46,7 +46,7 @@ const thisYear = new Date().getFullYear();
 
 
         <div class="min-h-screen-4rem flex items-center justify-center flex-col">
-            <img src="../assets/about.png" class="absolute left-4 top-[80px] z-0 bg-cover h-[680px] w-[690px]">
+            <img src="@/assets/about.png" class="absolute left-4 top-[80px] z-0 bg-cover h-[680px] w-[690px]">
 
             <h1 style="z-index: 10; line-height: normal;font-size: 72px;">方便的</h1>
             <h1 style="z-index: 10;line-height: normal;font-size: 72px;">CodeNotes</h1>
