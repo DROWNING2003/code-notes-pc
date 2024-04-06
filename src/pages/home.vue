@@ -64,11 +64,11 @@ const thisYear = new Date().getFullYear();
             <div class="flex flex-row gap-3" style="height: 84px; width: 100%;">
 
               <div class="rounded-full">
-                <img class="w-14 rounded-full" src="@/assets/Robin Williams.png" />
+                <img class="w-14 rounded-full" src="@/assets/rw.png" />
               </div>
 
               <span>
-                <p style="font-size: 20px;font-weight: bold;line-height: 32px;color: #1D1D1F;">Robin Williams</p>
+                <p style="font-size: 20px;font-weight: bold;line-height: 32px;color: #1D1D1F;">rw</p>
                 <p style="color: #7A7D84;line-height: 24px;font-weight: normal;font-size: 14px;">Comedian</p>
               </span>
             </div>
